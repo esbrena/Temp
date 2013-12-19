@@ -1,0 +1,6 @@
+arrastrar la carpeta
+
+create
+
+aparece en el repositorio, de momento solo está en local 
+

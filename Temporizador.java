@@ -1,4 +1,4 @@
-/**
+﻿/**
  *
  * @author Rafael Pérez
  * DESARROLLO DE APLICACIONES MULTIPLATAFORMAS
@@ -37,4 +37,4 @@ public class Temporizador {
         if (t<0) t=0;
         return t;
     }
-}
+} //fin
